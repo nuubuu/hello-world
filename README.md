@@ -1,5 +1,4 @@
 # hello-world
 and so it begins
 
-
-scentific diciplines need programming, and here I am to learn.
+The name's Tony, loves biology, likes physics, does biophysics.
